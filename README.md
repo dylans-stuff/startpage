@@ -1,10 +1,10 @@
 # startpage
 
-##political
+## political
 * [capital district dsa](https://capitaldistrictdsa.org)
 * [DSA action network](https://actionnetwork.org/groups/capital-district-dsa/manage)
 
-##news
+## news
 
-##fun
+## fun
 * [xkcd](https://xkcd.com/)
